@@ -1,6 +1,6 @@
-# Olá, eu sou o Jefferson Astuti Magalhães de Barros! 👋
+# Olá, eu sou o Jefferson Barros! 👋
 
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | [cite_start]Preparando-se para o mercado de tecnologia** [cite: 452, 453]
+**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | [cite_start]Preparando-se para o mercado de tecnologia** [cite: 452, 453, 559]
 
 ## 🚀 Sobre mim
 - [cite_start]Atualmente cursando **Técnico em Desenvolvimento de Sistemas**[cite: 562].
@@ -12,8 +12,8 @@
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-[cite_start]</div> [cite: 541, 548]
+[cite_start]</div> [cite: 541, 548, 567, 571]
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/jefferson-astuti-magalh%C3%A3es-de-barros-6018ab8/?locale=pt_BR))
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersonpmsi@gmail.com) [cite: 524, 527]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-astuti-magalh%C3%A3es-de-barros-6018ab8/)
+[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersonpmsi@gmail.com) [cite: 524, 527, 576, 578]
